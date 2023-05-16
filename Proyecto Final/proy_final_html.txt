@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="prueba.css">
+    <title>Proyecto Final</title>
+</head>
+
+<body>
+    <div class="bgimg-1">
+        <div class="caption">
+            <span class="border">PILARES</span>
+        </div>
+    </div>
+
+    <div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
+        <h3 style="text-align:center;">¿Que es?</h3>
+        <p>Un campo formativo para el aprendizaje de diversos oficios que brindan el dominio o conocimiento de
+            habilidades manuales, una propuesta formativa para aproximar, descubrir y/o pontenciar a los usuarios a
+            nuevas opciones e incluso desarrollar compentencias útiles para la vida.</p>
+    </div>
+
+    <div class="bgimg-2">
+        <div class="caption">
+            <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">RECREACIÓN</span>
+        </div>
+    </div>
+
+    <div style="position:relative;">
+        <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+            <h3 style="color:#ddd;text-align:center;">Proyecto</h3>
+            <p>Buscamos disminuir violencias y desigualdades. La politica está enfocada principalmente en la atención de
+                las zonas con menor indice de Desarrollo Social, mayor densidad poblacional, que cuentan con mayor
+                presencia de jovenes de entre 15 y 29 años de edad, y en donde existan problemas de violencia.</p>
+        </div>
+    </div>
+
+    <div class="bgimg-3">
+        <div class="caption">
+            <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">CONEXIÓN</span>
+        </div>
+    </div>
+
+    <div style="position:relative;">
+        <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+            <h3 style="color:#ddd;text-align:center;">¿Qué ofrece?</h3>
+            <p>Cualquier persona puede iniciar o continuar sus estudios -desde alfabetización hasta licenciatura-, así
+                como acceder a talleres deportivos, culturales y de capacitación de oficios para la producción,
+                comercialización y emprendimiento que permitan lograr la autonomia econónomica. En los PILARES se cuenta
+                con equipos de cómputo con internet. Todas las actividades con gratuitas.</p>
+        </div>
+    </div>
+
+    <div class="bgimg-1">
+        <div class="caption">
+            <span class="border">EMPONDERAMIENTO</span>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+</html>
